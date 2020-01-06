@@ -4,69 +4,41 @@
       "id": 1,
       "title": "Post One",
       "body": "For Adults and Kids Content",
-      "available_for_users_types": [
-        "adult",
-        "kid"
-      ]
+      "img_preview": "https://picsum.photos/id/237/600/600",
+      "role": "kid"
     },
     {
       "id": 2,
       "title": "Post Two",
       "body": "For Adults Only",
-      "available_for_users_types": [
-        "adult"
-      ]
+      "img_preview": "https://i.picsum.photos/id/200/600/600.jpg",
+      "role": "adult"
     },
     {
       "id": 3,
       "title": "Post One",
       "body": "For Adults Only",
-      "available_for_users_types": [
-        "adult"
-      ]
+      "img_preview": "https://picsum.photos/id/2/600/600",
+      "role": "adult"
     },
     {
       "id": 4,
       "title": "Post Four",
       "body": "For Adults Only",
-      "available_for_users_types": [
-        "adult"
-      ]
+      "img_preview": "https://picsum.photos/id/37/600/600",
+      "role": "adult"
     },
     {
       "id": 5,
       "title": "Post Five",
       "body": "For Adults Only",
-      "available_for_users_types": [
-        "adult"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Post Six",
-      "body": "For Adults and Kids Content",
-      "available_for_users_types": [
-        "adult",
-        "kid"
-      ]
-    },
-    {
-      "id": 7,
-      "title": "Post Seven",
-      "body": "For Adults Only",
-      "available_for_users_types": [
-        "adult"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Post Eight",
-      "body": "For Adults and Kids Content",
-      "available_for_users_types": [
-        "adult",
-        "kid"
-      ]
+      "img_preview": "https://picsum.photos/id/111/600/600",
+      "role": "adult"
     }
   ],
-  "users": []
+  "users": [],
+  "roles": [
+    "adult",
+    "kid"
+  ]
 }
