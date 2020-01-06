@@ -2,7 +2,7 @@
 
 ## Deploy to Heroku
 
-1 . [Create your database](#create-your-database)
+1 . [Create your database](https://github.com/minikin/next-json-server/blob/master/db.json)
 
 2 . Create an account on <br/>[https://heroku.com](https://heroku.com)
 

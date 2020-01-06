@@ -2,18 +2,84 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "Post One",
+      "body": "For Adults and Kids Content",
+      "available_for_users_types": [
+        "adult",
+        "kid"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "For Adults Only",
+      "available_for_users_types": [
+        "adult"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Post One",
+      "body": "For Adults Only",
+      "available_for_users_types": [
+        "adult"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Post Four",
+      "body": "For Adults Only",
+      "available_for_users_types": [
+        "adult"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Post Five",
+      "body": "For Adults Only",
+      "available_for_users_types": [
+        "adult"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Post Six",
+      "body": "For Adults and Kids Content",
+      "available_for_users_types": [
+        "adult",
+        "kid"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Post Seven",
+      "body": "For Adults Only",
+      "available_for_users_types": [
+        "adult"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Post Eight",
+      "body": "For Adults and Kids Content",
+      "available_for_users_types": [
+        "adult",
+        "kid"
+      ]
     }
   ],
-  "comments": [
+  "users": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "first_name": "John",
+      "second_name": "Bond",
+      "user_type": "adult"
+    },
+    {
+      "id": 1,
+      "first_name": "Katy",
+      "second_name": "Bond",
+      "user_type": "kid"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
