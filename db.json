@@ -68,18 +68,5 @@
       ]
     }
   ],
-  "users": [
-    {
-      "id": 1,
-      "first_name": "John",
-      "second_name": "Bond",
-      "user_type": "adult"
-    },
-    {
-      "id": 1,
-      "first_name": "Katy",
-      "second_name": "Bond",
-      "user_type": "kid"
-    }
-  ]
+  "users": []
 }
