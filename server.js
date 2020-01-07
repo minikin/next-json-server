@@ -16,7 +16,7 @@ server.listen(port, () => {
 })
 
 setInterval(function () {
-  https.get('http://next-json-server.herokuapp.com');
+  https.get('https://next-json-server.herokuapp.com');
 }, 300000);
 
 // setInterval(function () {
