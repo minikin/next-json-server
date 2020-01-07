@@ -1,6 +1,7 @@
 const jsonServer = require('json-server')
 const auth = require('json-server-auth')
 const http = require("http");
+const https = require("https");
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 
@@ -15,7 +16,7 @@ server.listen(port, () => {
 })
 
 setInterval(function () {
-  https.get('https://next-json-server.herokuapp.com');
+  https.get('http://next-json-server.herokuapp.com');
 }, 300000);
 
 // setInterval(function () {
