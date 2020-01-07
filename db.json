@@ -4,14 +4,14 @@
       "id": 1,
       "title": "Post One",
       "body": "For Adults and Kids Content",
-      "image": "https://picsum.photos/id/237/600/600",
+      "image": "https://i.picsum.photos/id/237/600/600.jpg",
       "availableForProfileType": "kid"
     },
     {
       "id": 2,
       "title": "Post Two",
       "body": "For Adults Only",
-      "image": "https://i.picsum.photos/id/200/600/600",
+      "image": "https://i.picsum.photos/id/200/600/600.jpg",
       "availableForProfileType": "adult"
     }
   ],
