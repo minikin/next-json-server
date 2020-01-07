@@ -4,40 +4,19 @@
       "id": 1,
       "title": "Post One",
       "body": "For Adults and Kids Content",
-      "img_preview": "https://picsum.photos/id/237/600/600",
-      "role": "kid"
+      "image": "https://picsum.photos/id/237/600/600",
+      "availableForProfileType": "kid"
     },
     {
       "id": 2,
       "title": "Post Two",
       "body": "For Adults Only",
-      "img_preview": "https://i.picsum.photos/id/200/600/600.jpg",
-      "role": "adult"
-    },
-    {
-      "id": 3,
-      "title": "Post One",
-      "body": "For Adults Only",
-      "img_preview": "https://picsum.photos/id/2/600/600",
-      "role": "adult"
-    },
-    {
-      "id": 4,
-      "title": "Post Four",
-      "body": "For Adults Only",
-      "img_preview": "https://picsum.photos/id/37/600/600",
-      "role": "adult"
-    },
-    {
-      "id": 5,
-      "title": "Post Five",
-      "body": "For Adults Only",
-      "img_preview": "https://picsum.photos/id/111/600/600",
-      "role": "adult"
+      "image": "https://i.picsum.photos/id/200/600/600",
+      "availableForProfileType": "adult"
     }
   ],
   "users": [],
-  "roles": [
+  "profileType": [
     "adult",
     "kid"
   ]
