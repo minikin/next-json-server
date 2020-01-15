@@ -4,9 +4,9 @@
 
 1. [Create your database](https://github.com/minikin/next-json-server/blob/master/db.json)
 
-2. Create an account on <br/>[https://heroku.com](https://heroku.com)
+2. Create an account on [https://heroku.com](https://heroku.com)
 
-3. Install the Heroku CLI on your computer: <br/>[https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
+3. Install the Heroku CLI on your computer: [https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
 
 4. Connect the Heroku CLI to your account by writing the following command in your terminal and follow the instructions on the command line:
 
