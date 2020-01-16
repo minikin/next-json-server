@@ -20,6 +20,13 @@
       "body": "For Adults Only",
       "image": "https://i.picsum.photos/id/100/600/600.jpg",
       "availableForProfileType": "adult"
+    },
+    {
+      "id": 4,
+      "title": "Post Four",
+      "body": "For Adults Only",
+      "image": "https://i.picsum.photos/id/22/600/600.jpg",
+      "availableForProfileType": "adult"
     }
   ],
   "users": [],
