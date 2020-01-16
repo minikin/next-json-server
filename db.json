@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Post One",
-      "body": "For Adults and Kids Content",
+      "body": "Kids Content",
       "image": "https://i.picsum.photos/id/237/600/600.jpg",
       "availableForProfileType": "kid"
     },
@@ -12,6 +12,13 @@
       "title": "Post Two",
       "body": "For Adults Only",
       "image": "https://i.picsum.photos/id/200/600/600.jpg",
+      "availableForProfileType": "adult"
+    },
+    {
+      "id": 3,
+      "title": "Post Three",
+      "body": "For Adults Only",
+      "image": "https://i.picsum.photos/id/100/600/600.jpg",
       "availableForProfileType": "adult"
     }
   ],
