@@ -41,8 +41,13 @@ heroku logs --tail
 9. Restart app
 
 ```bash
-
 heroku restart -a next-json-server
+```
+
+10. Add heroku remote
+
+```sh
+heroku git:remote -a thawing-inlet-61413
 ```
 
 ---
