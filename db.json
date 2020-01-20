@@ -29,7 +29,35 @@
       "availableForProfileType": "adult"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "email": "me@me.com",
+      "firstName": "Sasha",
+      "id": 1,
+      "password": "$2a$10$4sdunDYnZXUwJeQmxJdpTOAT6dBNRahmFVrfcrNLYk7SKZTtIZR5G",
+      "profiles": [
+        {
+          "avatarUrl": "https://i.ibb.co/wNZdHCK/a6.png",
+          "name": "Sasha Berlin",
+          "owner": true,
+          "profileType": "adult"
+        },
+        {
+          "avatarUrl": "https://i.ibb.co/0G7rk0y/a5.png",
+          "name": "Adam Grant",
+          "owner": false,
+          "profileType": "adult"
+        },
+        {
+          "avatarUrl": "https://i.ibb.co/PrNynB2/a4.png",
+          "name": "Katy The Kid",
+          "owner": false,
+          "profileType": "kid"
+        }
+      ],
+      "secondName": "Berlin"
+    }
+  ],
   "profileType": [
     "adult",
     "kid"
