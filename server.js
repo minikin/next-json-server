@@ -15,10 +15,7 @@ server.listen(port, () => {
   console.log('JSON Server is running')
 })
 
-setInterval(function () {
-  https.get('https://next-json-server.herokuapp.com');
-}, 300000);
-
 // setInterval(function () {
-//   http.get('http://localhost');
+//   https.get('https://next-json-server.herokuapp.com');
 // }, 300000);
+
